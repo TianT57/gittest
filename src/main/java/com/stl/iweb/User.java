@@ -6,4 +6,5 @@ package com.stl.iweb;
  */
 public class User {
     private int age;
+    private int sno;
 }
